@@ -1,0 +1,3 @@
+[submodule "TestLibrary"]
+	path = TestLibrary
+	url = git@github.com:tedcrimson/OpenSeeFace.git
