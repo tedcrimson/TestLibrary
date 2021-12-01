@@ -1,0 +1,14 @@
+{
+  "name": "com.tedcrimson.testlibrary",
+  "displayName": "Test Library",
+  "description": "blabla",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tedcrimson/TestLibrary.git"
+  },
+  "author": "mob-sakai <sakai861104@gmail.com> (https://github.com/mob-sakai)",
+  "type": "library"
+}
